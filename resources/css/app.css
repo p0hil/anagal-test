@@ -1,0 +1,15 @@
+/* Base */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+
+/* Components */
+@import 'components/button';
+@import 'components/form';
+
+@import "common/font-awesome.min";
+@import "common/bootstrap.min";
+@import "common/main";
+@import "common/responsive";
+
+/* Utilities */
+@import 'tailwindcss/utilities';
