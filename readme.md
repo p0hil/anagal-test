@@ -3,8 +3,8 @@
 Clone the repo locally:
 
 ```sh
-git clone https://github.com/landish/pingcrm-react.git
-cd pingcrm-react
+git clone https://github.com/p0hil/anagal-test.git
+cd anagal-test
 ```
 
 Install PHP dependencies:
