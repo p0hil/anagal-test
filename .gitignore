@@ -9,7 +9,6 @@
 /vendor
 .DS_Store
 .idea
-.env
 .php_cs.dist
 .phpunit.result.cache
 Homestead.json
